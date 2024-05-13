@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codewithganeshhh/codewithganeshhh/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codewithganeshhh/codewithganeshhh/output/snake.svg" alt="Snake animation" />
 
 ###
 
