@@ -1,6 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=AtharvKasar04&icon=8&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ganesh Kumar 04&icon=8&color=3)](https://visitcount.itsvg.in)
 
-<h2>Hi 👋, I'm Atharv Kasar</h2>
+<h2>Hi 👋, I'm Ganesh Kumar</h2>
 # 💫 About Me:BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Programming Enthusiast 💫
 <br>📫 How to reach me atharvk752@gmail.com
 
