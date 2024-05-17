@@ -1,17 +1,28 @@
-<h2 align="left">GANESH KUMAR 💻 BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Programming Enthusiast 💫</h2>
+[![](https://visitcount.itsvg.in/api?id=AtharvKasar04&icon=8&color=3)](https://visitcount.itsvg.in)
 
-###
+<h2>Hi 👋, I'm Atharv Kasar</h2>
+# 💫 About Me:BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Programming Enthusiast 💫
+<br>📫 How to reach me atharvk752@gmail.com
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithganeshhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithganeshhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharv-kasar-03aa34258/) 
 
-<img align="right" height="150" src="https://c.tenor.com/flflC6GFzO8AAAAd/tenor.gif"  />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codewithganeshhh04&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codewithganeshhh04&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithganeshhh04&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=code04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech I've worked with:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,27 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codewithganeshhh/count.svg?"  />
-</div>
-
-###
