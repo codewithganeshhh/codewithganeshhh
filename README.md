@@ -1,4 +1,4 @@
-<h2 align="left">GANESH KUMAR 💻 BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Programming Enthusiast 💫</h2>
+<h2 align="left">GANESH KUMAR 💻 BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Coding Enthusiast 💫</h2>
 
 ###
 
