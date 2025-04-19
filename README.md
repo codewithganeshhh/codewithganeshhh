@@ -1,4 +1,35 @@
-<h2 align="left">GANESH KUMAR 💻 BCA'26 • NETAJI SUBHAS UNIVERASITY🎓• GSSoC’24 Contributor •🚀 Aspiring Web Developer • DSA • C++ • C language • Learner • Coding Enthusiast 💫</h2>
+<h2>नमस्ते (Namaste)🙏🏻,  I'm GANESH KUMAR 💻 !
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter Badge](https://img.shields.io/badge/-@ridsuteri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ridsuteri)](https://twitter.com/ridsuteri) [![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riddhi-suteri/)](https://www.linkedin.com/in/riddhi-suteri/) 
+[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridsuteri@gmail.com)](mailto:ridsuteri@gmail.com)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ridsuteri = {
+    pronouns: "He" | "Him",
+    code: [Javascript, C++, Java, Dart, Typescript],
+    askMeAbout: ["Web Developemnt", "Flutter", "Technical Writing"],
+    technologies:{
+       frontEnd: {
+            js: ["React"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase", "socket.io"]
+    },
+    challenge: "I am trying to do more open source contributions",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ###
 
