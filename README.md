@@ -4,10 +4,6 @@
 <p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@ridsuteri-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://x.com/codewithganesh) 
-[![Linkedin Badge](https://img.shields.io/badge/-riddhi%20suteri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-kumar/)](https://www.linkedin.com/in/ganesh-kumar-816544282/) 
-[![Gmail Badge](https://img.shields.io/badge/-ridsuteri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ganeshplays700@gmail.com)](mailto:ganeshplays700@gmail.com)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
